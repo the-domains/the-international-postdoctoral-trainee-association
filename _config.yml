@@ -1,0 +1,28 @@
+name: The International Postdoctoral Trainee Association
+favicon: null
+layout_spectrum: 0.7535977095831186
+typography_spectrum: 0.22161143738776445
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#9D2D3C'
+    - '#DDE4DD'
+    - '#BCAB47'
+    - '#6B574B'
+    - '#160600'
+  brandStrength: 0.7165075924713165
+  lightness: 0.6814190032891929
+  saturation: 0.050855368142947555
+  rhythmicContrast: 0.8738820431753993
+purpose: []
